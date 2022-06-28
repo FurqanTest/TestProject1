@@ -61,6 +61,10 @@ class ViewController: UIViewController {
 
     }
     
+    func newTestGitFunction(){
+        print("Hello Git. I am in Dev Branch.")
+    }
+    
     
 }
 
