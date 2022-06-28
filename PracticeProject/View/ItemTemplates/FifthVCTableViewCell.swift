@@ -1,0 +1,22 @@
+//
+//  FifthVCTableViewCell.swift
+//  PracticeProject
+//
+//  Created by Now Admin on 5/31/22.
+//
+
+import UIKit
+
+class FifthVCTableViewCell: UITableViewCell {
+
+    
+    @IBOutlet weak var label: UILabel!
+    
+    
+    override func awakeFromNib() {
+        super.awakeFromNib()
+        // Initialization code
+    }
+
+    
+}
