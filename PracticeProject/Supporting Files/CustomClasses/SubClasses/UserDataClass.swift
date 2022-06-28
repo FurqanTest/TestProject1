@@ -29,6 +29,4 @@ class UserDataClass {
     var exceptionError:String = "Something went wrong!"
     var tryCatchError:String = "Error while parsing data!"
     var noInternetError:String = "No internet connection!"
-   
-    
 }
