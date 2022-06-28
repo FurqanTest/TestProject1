@@ -8,7 +8,6 @@
 import UIKit
 
 class TweleViewController: UIViewController {
-    
     @IBOutlet weak var mainView: UIView!
     @IBOutlet weak var button: UIButton!
     override func viewDidLoad() {
@@ -16,7 +15,6 @@ class TweleViewController: UIViewController {
         
         
     }
-    
     @IBAction func kkk(_ sender: Any) {
         
 //        if isDisplaying == true{
