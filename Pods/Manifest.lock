@@ -20,6 +20,7 @@ PODS:
   - SDWebImage (5.12.5):
     - SDWebImage/Core (= 5.12.5)
   - SDWebImage/Core (5.12.5)
+  - SideMenuSwift (2.0.9)
   - SwiftyJSON (4.3.0)
   - Toast-Swift (5.0.1)
 
@@ -31,6 +32,7 @@ DEPENDENCIES:
   - RxCocoa (= 6.5.0)
   - RxSwift (= 6.5.0)
   - SDWebImage (~> 5.0)
+  - SideMenuSwift
   - SwiftyJSON (~> 4.0)
   - Toast-Swift (~> 5.0.1)
 
@@ -45,6 +47,7 @@ SPEC REPOS:
     - RxRelay
     - RxSwift
     - SDWebImage
+    - SideMenuSwift
     - SwiftyJSON
     - Toast-Swift
 
@@ -58,9 +61,10 @@ SPEC CHECKSUMS:
   RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
   RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
   SDWebImage: 0905f1b7760fc8ac4198cae0036600d67478751e
+  SideMenuSwift: 39f1922e225da4aaa8b16591037a929defe960c9
   SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
   Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
 
-PODFILE CHECKSUM: 3a4d2c2a02215dad7900de2af4841374216acce3
+PODFILE CHECKSUM: 6fba318f1f91d79c7ec9886a1989b5b698e90e6f
 
 COCOAPODS: 1.11.3

@@ -51,6 +51,21 @@
 		D656E77D28475A32006B3871 /* SixthViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D656E77B28475A32006B3871 /* SixthViewController.xib */; };
 		D656E78028475A79006B3871 /* SixthCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D656E77E28475A79006B3871 /* SixthCollectionViewCell.swift */; };
 		D656E78128475A79006B3871 /* SixthCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D656E77F28475A79006B3871 /* SixthCollectionViewCell.xib */; };
+		D656F844286C4E6200BE54FB /* FifteenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D656F842286C4E6200BE54FB /* FifteenViewController.swift */; };
+		D656F845286C4E6200BE54FB /* FifteenViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D656F843286C4E6200BE54FB /* FifteenViewController.xib */; };
+		D656F848286C5E2900BE54FB /* SixteenViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D656F846286C5E2900BE54FB /* SixteenViewController.swift */; };
+		D656F849286C5E2900BE54FB /* SixteenViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D656F847286C5E2900BE54FB /* SixteenViewController.xib */; };
+		D656F84B286C678800BE54FB /* SideMenuSwift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D656F84A286C678800BE54FB /* SideMenuSwift.framework */; };
+		D656F84F286C6D5200BE54FB /* MenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D656F84D286C6D5200BE54FB /* MenuViewController.swift */; };
+		D656F850286C6D5200BE54FB /* MenuViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D656F84E286C6D5200BE54FB /* MenuViewController.xib */; };
+		D656F853286C6EBE00BE54FB /* SideMenuItem1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D656F851286C6EBE00BE54FB /* SideMenuItem1ViewController.swift */; };
+		D656F854286C6EBE00BE54FB /* SideMenuItem1ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D656F852286C6EBE00BE54FB /* SideMenuItem1ViewController.xib */; };
+		D656F857286C6EDE00BE54FB /* SideMenuItem2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D656F855286C6EDE00BE54FB /* SideMenuItem2ViewController.swift */; };
+		D656F858286C6EDE00BE54FB /* SideMenuItem2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D656F856286C6EDE00BE54FB /* SideMenuItem2ViewController.xib */; };
+		D656F85B286C6EE900BE54FB /* SideMenuItem3ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D656F859286C6EE900BE54FB /* SideMenuItem3ViewController.swift */; };
+		D656F85C286C6EE900BE54FB /* SideMenuItem3ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D656F85A286C6EE900BE54FB /* SideMenuItem3ViewController.xib */; };
+		D656F85F286C8C6F00BE54FB /* ChildPageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D656F85D286C8C6F00BE54FB /* ChildPageViewController.swift */; };
+		D656F860286C8C6F00BE54FB /* ChildPageViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = D656F85E286C8C6F00BE54FB /* ChildPageViewController.xib */; };
 		D6678BD1285B6C66009D147B /* RoundCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6678BCF285B6C66009D147B /* RoundCollectionViewCell.swift */; };
 		D6678BD2285B6C66009D147B /* RoundCollectionViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = D6678BD0285B6C66009D147B /* RoundCollectionViewCell.xib */; };
 		D6769FE42844C98F00B9596C /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6769FE22844C98F00B9596C /* SecondViewController.swift */; };
@@ -132,6 +147,21 @@
 		D656E77B28475A32006B3871 /* SixthViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SixthViewController.xib; sourceTree = "<group>"; };
 		D656E77E28475A79006B3871 /* SixthCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixthCollectionViewCell.swift; sourceTree = "<group>"; };
 		D656E77F28475A79006B3871 /* SixthCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SixthCollectionViewCell.xib; sourceTree = "<group>"; };
+		D656F842286C4E6200BE54FB /* FifteenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifteenViewController.swift; sourceTree = "<group>"; };
+		D656F843286C4E6200BE54FB /* FifteenViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = FifteenViewController.xib; sourceTree = "<group>"; };
+		D656F846286C5E2900BE54FB /* SixteenViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixteenViewController.swift; sourceTree = "<group>"; };
+		D656F847286C5E2900BE54FB /* SixteenViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SixteenViewController.xib; sourceTree = "<group>"; };
+		D656F84A286C678800BE54FB /* SideMenuSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = SideMenuSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D656F84D286C6D5200BE54FB /* MenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuViewController.swift; sourceTree = "<group>"; };
+		D656F84E286C6D5200BE54FB /* MenuViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MenuViewController.xib; sourceTree = "<group>"; };
+		D656F851286C6EBE00BE54FB /* SideMenuItem1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuItem1ViewController.swift; sourceTree = "<group>"; };
+		D656F852286C6EBE00BE54FB /* SideMenuItem1ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SideMenuItem1ViewController.xib; sourceTree = "<group>"; };
+		D656F855286C6EDE00BE54FB /* SideMenuItem2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuItem2ViewController.swift; sourceTree = "<group>"; };
+		D656F856286C6EDE00BE54FB /* SideMenuItem2ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SideMenuItem2ViewController.xib; sourceTree = "<group>"; };
+		D656F859286C6EE900BE54FB /* SideMenuItem3ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideMenuItem3ViewController.swift; sourceTree = "<group>"; };
+		D656F85A286C6EE900BE54FB /* SideMenuItem3ViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = SideMenuItem3ViewController.xib; sourceTree = "<group>"; };
+		D656F85D286C8C6F00BE54FB /* ChildPageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChildPageViewController.swift; sourceTree = "<group>"; };
+		D656F85E286C8C6F00BE54FB /* ChildPageViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ChildPageViewController.xib; sourceTree = "<group>"; };
 		D6678BCF285B6C66009D147B /* RoundCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RoundCollectionViewCell.swift; sourceTree = "<group>"; };
 		D6678BD0285B6C66009D147B /* RoundCollectionViewCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = RoundCollectionViewCell.xib; sourceTree = "<group>"; };
 		D66DF9B3283D008B00B60C0E /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
@@ -176,6 +206,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D656F84B286C678800BE54FB /* SideMenuSwift.framework in Frameworks */,
 				FEC2BC07ED8E913E9896C53E /* Pods_PracticeProject.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -292,6 +323,7 @@
 		32F5D0EF6E0E06F67256022E /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				D656F84A286C678800BE54FB /* SideMenuSwift.framework */,
 				D68FD4A12861C6DE00CA4DBA /* iOSDropDown.framework */,
 				913CFC35C3E1EAA52557CF85 /* Pods_PracticeProject.framework */,
 			);
@@ -331,6 +363,25 @@
 				D63B9E8F2862F96900F9747B /* tickIcon.png */,
 			);
 			path = DropDownControl;
+			sourceTree = "<group>";
+		};
+		D656F84C286C6D2800BE54FB /* SideMenuControl */ = {
+			isa = PBXGroup;
+			children = (
+				D656F846286C5E2900BE54FB /* SixteenViewController.swift */,
+				D656F847286C5E2900BE54FB /* SixteenViewController.xib */,
+				D656F84D286C6D5200BE54FB /* MenuViewController.swift */,
+				D656F84E286C6D5200BE54FB /* MenuViewController.xib */,
+				D656F851286C6EBE00BE54FB /* SideMenuItem1ViewController.swift */,
+				D656F852286C6EBE00BE54FB /* SideMenuItem1ViewController.xib */,
+				D656F855286C6EDE00BE54FB /* SideMenuItem2ViewController.swift */,
+				D656F856286C6EDE00BE54FB /* SideMenuItem2ViewController.xib */,
+				D656F859286C6EE900BE54FB /* SideMenuItem3ViewController.swift */,
+				D656F85A286C6EE900BE54FB /* SideMenuItem3ViewController.xib */,
+				D656F85D286C8C6F00BE54FB /* ChildPageViewController.swift */,
+				D656F85E286C8C6F00BE54FB /* ChildPageViewController.xib */,
+			);
+			path = SideMenuControl;
 			sourceTree = "<group>";
 		};
 		D659FC5928376B1E00419695 /* App Delegate */ = {
@@ -396,6 +447,9 @@
 				D67EEB4828659A87003FFDE6 /* FourteenViewController.xib */,
 				D6D2F58F2869ECF100E16722 /* ImageCollectionViewCell.swift */,
 				D6D2F5902869ECF100E16722 /* ImageCollectionViewCell.xib */,
+				D656F842286C4E6200BE54FB /* FifteenViewController.swift */,
+				D656F843286C4E6200BE54FB /* FifteenViewController.xib */,
+				D656F84C286C6D2800BE54FB /* SideMenuControl */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -493,12 +547,17 @@
 				D68FD4A62861CB5600CA4DBA /* TweleViewController.xib in Resources */,
 				D68924FC286476E1002F522A /* ThirteenViewController.xib in Resources */,
 				0C90CAC92549DC27007D71CD /* HomePageViewController.xib in Resources */,
+				D656F85C286C6EE900BE54FB /* SideMenuItem3ViewController.xib in Resources */,
 				D656E77D28475A32006B3871 /* SixthViewController.xib in Resources */,
+				D656F858286C6EDE00BE54FB /* SideMenuItem2ViewController.xib in Resources */,
 				D6D2F5922869ECF100E16722 /* ImageCollectionViewCell.xib in Resources */,
 				0CEBE9D82549D8870099DCD8 /* LaunchScreen.storyboard in Resources */,
 				0C90CAFD2549DDFB007D71CD /* PickerPopUp.xib in Resources */,
+				D656F850286C6D5200BE54FB /* MenuViewController.xib in Resources */,
 				0CEBE9D52549D8870099DCD8 /* Assets.xcassets in Resources */,
 				D635C63C2845EEC200985D32 /* ContactsTableViewCell.xib in Resources */,
+				D656F849286C5E2900BE54FB /* SixteenViewController.xib in Resources */,
+				D656F860286C8C6F00BE54FB /* ChildPageViewController.xib in Resources */,
 				D635C64028461C4A00985D32 /* SubContactsTableViewCell.xib in Resources */,
 				D63B9E902862F96A00F9747B /* tickIcon.png in Resources */,
 				D620402A284655E6005BCDA7 /* FifthVCTableViewCell.xib in Resources */,
@@ -515,9 +574,11 @@
 				D62040262846546C005BCDA7 /* FifthViewController.xib in Resources */,
 				0C90CAFC2549DDFB007D71CD /* AppVersionLoaderPopup.xib in Resources */,
 				D68FD4A02861AEDD00CA4DBA /* CountryItemTemplateTableViewCell.xib in Resources */,
+				D656F854286C6EBE00BE54FB /* SideMenuItem1ViewController.xib in Resources */,
 				0C90CAF72549DDFB007D71CD /* DatePickerPopUp.xib in Resources */,
 				D68FD4AA2861DA5900CA4DBA /* DropDownTableViewCell.xib in Resources */,
 				0CEBE9D32549D8870099DCD8 /* Main.storyboard in Resources */,
+				D656F845286C4E6200BE54FB /* FifteenViewController.xib in Resources */,
 				D630312E2848EB3B0058FA21 /* SeventhViewController.xib in Resources */,
 				0C90CAFA2549DDFB007D71CD /* LoadingPopUp.xib in Resources */,
 			);
@@ -595,6 +656,7 @@
 				0C90CAE52549DD89007D71CD /* UserDataClass.swift in Sources */,
 				0C90CAF82549DDFB007D71CD /* LoaderPopUpClass.swift in Sources */,
 				D68D88AC283CB745000F7551 /* WebserviceClient.swift in Sources */,
+				D656F844286C4E6200BE54FB /* FifteenViewController.swift in Sources */,
 				D6D2F5912869ECF100E16722 /* ImageCollectionViewCell.swift in Sources */,
 				D68FD4A92861DA5900CA4DBA /* DropDownTableViewCell.swift in Sources */,
 				D68D88A7283CB6A1000F7551 /* ViewModelHomePageClass.swift in Sources */,
@@ -606,6 +668,7 @@
 				D68924FB286476E1002F522A /* ThirteenViewController.swift in Sources */,
 				D6920F842850CB3B008816D4 /* TenthViewController.swift in Sources */,
 				D656E77C28475A32006B3871 /* SixthViewController.swift in Sources */,
+				D656F857286C6EDE00BE54FB /* SideMenuItem2ViewController.swift in Sources */,
 				D68D88A9283CB6E7000F7551 /* DynamicType.swift in Sources */,
 				0C90CADA2549DD1C007D71CD /* DissmissableView.swift in Sources */,
 				0C90CAD42549DCE7007D71CD /* HomepageDataClass.swift in Sources */,
@@ -615,11 +678,13 @@
 				D635C6362845EAFC00985D32 /* FourthViewController.swift in Sources */,
 				D630312D2848EB3B0058FA21 /* SeventhViewController.swift in Sources */,
 				0C90CAD92549DD1C007D71CD /* CheckBoxButton.swift in Sources */,
+				D656F853286C6EBE00BE54FB /* SideMenuItem1ViewController.swift in Sources */,
 				0C90CADD2549DD3C007D71CD /* GetCurrentViewControllerClass.swift in Sources */,
 				D68FD4A52861CB5600CA4DBA /* TweleViewController.swift in Sources */,
 				D6268F522849E7B600364B2A /* EightViewController.swift in Sources */,
 				D67EEB4928659A87003FFDE6 /* FourteenViewController.swift in Sources */,
 				D68D88A5283CB67A000F7551 /* ModelClass.swift in Sources */,
+				D656F85F286C8C6F00BE54FB /* ChildPageViewController.swift in Sources */,
 				D6204029284655E6005BCDA7 /* FifthVCTableViewCell.swift in Sources */,
 				D62040252846546C005BCDA7 /* FifthViewController.swift in Sources */,
 				0C90CAF62549DDFB007D71CD /* AppVersionLoaderPopupClass.swift in Sources */,
@@ -627,11 +692,14 @@
 				0CEBE9CC2549D8870099DCD8 /* AppDelegate.swift in Sources */,
 				0C90CAF92549DDFB007D71CD /* DatePickerPopUp.swift in Sources */,
 				0C90CAE22549DD71007D71CD /* CalenderCollectionViewSourceAdaptor.swift in Sources */,
+				D656F848286C5E2900BE54FB /* SixteenViewController.swift in Sources */,
+				D656F85B286C6EE900BE54FB /* SideMenuItem3ViewController.swift in Sources */,
 				D6678BD1285B6C66009D147B /* RoundCollectionViewCell.swift in Sources */,
 				0C90CAEC2549DDA7007D71CD /* InternetConnectivityClass.swift in Sources */,
 				0C90CAEB2549DDA7007D71CD /* ServiceAPIManagerClass.swift in Sources */,
 				0C90CAFB2549DDFB007D71CD /* PickerPopUpClass.swift in Sources */,
 				D6769FE82844DF3F00B9596C /* ThirdViewController.swift in Sources */,
+				D656F84F286C6D5200BE54FB /* MenuViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

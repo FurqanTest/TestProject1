@@ -48,9 +48,18 @@ class ViewController: UIViewController {
         
         //self.navigationController!.pushViewController(TweleViewController(nibName: "TweleViewController", bundle: nil), animated: true)
         
-        self.navigationController!.pushViewController(ThirteenViewController(nibName: "ThirteenViewController", bundle: nil), animated: true)
+//        self.navigationController!.pushViewController(ThirteenViewController(nibName: "ThirteenViewController", bundle: nil), animated: true)
         
         //self.navigationController!.pushViewController(FourteenViewController(nibName: "FourteenViewController", bundle: nil), animated: true)
+        
+        //text to audio
+//        self.navigationController!.pushViewController(FifteenViewController(nibName: "FifteenViewController", bundle: nil), animated: true)
+        
+        //SIde Menu Control
+        self.navigationController!.pushViewController(SixteenViewController(nibName: "SixteenViewController", bundle: nil), animated: true)
+        
+        
+        
         
     }
     

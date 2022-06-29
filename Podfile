@@ -21,4 +21,8 @@ pod 'RxCocoa', '6.5.0'
 pod 'GoogleMaps', '6.2.1'
 pod 'GooglePlaces’
 
+
+
+pod 'SideMenuSwift'
+
 end
